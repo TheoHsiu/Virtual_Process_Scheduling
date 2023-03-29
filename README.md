@@ -1,5 +1,6 @@
 # ECS 150 Project 2: Thread Library
 
+Copy of the Thread Library Project done by Theodore Hsiung and Andrew Lam
 ## Introduction
 
 The Thread Library project was made to create a basic user-level thread 
